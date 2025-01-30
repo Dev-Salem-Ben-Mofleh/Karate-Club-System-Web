@@ -49,6 +49,8 @@
 
 ## Project URL
 [Live Demo](#) *(https://karate-club-system.netlify.app/)*
+- **Username**: sal123
+- **Password**: 1111
 
 ## Future Enhancements
 - Implement authentication and authorization.
