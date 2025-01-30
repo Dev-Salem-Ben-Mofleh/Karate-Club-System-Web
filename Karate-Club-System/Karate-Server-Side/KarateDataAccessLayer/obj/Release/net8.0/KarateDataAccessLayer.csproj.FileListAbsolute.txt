@@ -1,0 +1,12 @@
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateDataAccessLayer\bin\Release\net8.0\KarateDataAccessLayer.deps.json
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateDataAccessLayer\bin\Release\net8.0\KarateDataAccessLayer.dll
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateDataAccessLayer\bin\Release\net8.0\KarateDataAccessLayer.pdb
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateDataAccessLayer\obj\Release\net8.0\KarateDataAccessLayer.csproj.AssemblyReference.cache
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateDataAccessLayer\obj\Release\net8.0\KarateDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateDataAccessLayer\obj\Release\net8.0\KarateDataAccessLayer.AssemblyInfoInputs.cache
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateDataAccessLayer\obj\Release\net8.0\KarateDataAccessLayer.AssemblyInfo.cs
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateDataAccessLayer\obj\Release\net8.0\KarateDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateDataAccessLayer\obj\Release\net8.0\KarateDataAccessLayer.dll
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateDataAccessLayer\obj\Release\net8.0\refint\KarateDataAccessLayer.dll
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateDataAccessLayer\obj\Release\net8.0\KarateDataAccessLayer.pdb
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateDataAccessLayer\obj\Release\net8.0\ref\KarateDataAccessLayer.dll

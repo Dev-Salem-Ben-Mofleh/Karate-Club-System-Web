@@ -1,0 +1,15 @@
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateBussinesLayer\bin\Release\net8.0\KarateBussinesLayer.deps.json
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateBussinesLayer\bin\Release\net8.0\KarateBussinesLayer.dll
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateBussinesLayer\bin\Release\net8.0\KarateBussinesLayer.pdb
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateBussinesLayer\bin\Release\net8.0\KarateDataAccessLayer.dll
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateBussinesLayer\bin\Release\net8.0\KarateDataAccessLayer.pdb
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateBussinesLayer\obj\Release\net8.0\KarateBussinesLayer.csproj.AssemblyReference.cache
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateBussinesLayer\obj\Release\net8.0\KarateBussinesLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateBussinesLayer\obj\Release\net8.0\KarateBussinesLayer.AssemblyInfoInputs.cache
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateBussinesLayer\obj\Release\net8.0\KarateBussinesLayer.AssemblyInfo.cs
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateBussinesLayer\obj\Release\net8.0\KarateBussinesLayer.csproj.CoreCompileInputs.cache
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateBussinesLayer\obj\Release\net8.0\KarateBu.03532219.Up2Date
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateBussinesLayer\obj\Release\net8.0\KarateBussinesLayer.dll
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateBussinesLayer\obj\Release\net8.0\refint\KarateBussinesLayer.dll
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateBussinesLayer\obj\Release\net8.0\KarateBussinesLayer.pdb
+E:\RestfulAPIProject\Karate-Club-System\Karate-Server-Side\KarateBussinesLayer\obj\Release\net8.0\ref\KarateBussinesLayer.dll
